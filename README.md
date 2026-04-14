@@ -12,3 +12,16 @@ git branch -M main
 git remote add origin https://github.com/DmytroLahoda/Kolokwium.git
 git push -u origin main
 ```
+
+## Zadanie 2
+```
+tocuh Dmytro_Lahoda.txt
+touch 14.04.2026.txt
+git checkout -b DL
+git add Dmytro_Lahoda.txt
+git status
+git commit -m "Zadanie 2"
+git push
+```
+
+
