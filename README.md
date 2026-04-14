@@ -25,3 +25,15 @@ git push
 ```
 
 
+## Zadanie 3
+```
+git config user.email "dimalag36@gmail.com"
+git add README.md
+git status
+git commit -m "Zdanie 3"
+git push
+```
+
+[Dmytro Lahoda](asdasd.png)
+
+
